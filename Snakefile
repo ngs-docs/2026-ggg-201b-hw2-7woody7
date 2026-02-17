@@ -1,7 +1,5 @@
 rule all:
     input:
-        "SRR2584857_quast.4000000",
-        "SRR2584857_annot.4000000",
         "SRR2584857_quast.200000",
         "SRR2584857_annot.200000",
         "SRR2584857_quast.2000000",
